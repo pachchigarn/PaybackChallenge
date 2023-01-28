@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PaybackChallenge</string>
+    <string name="generic_error_message">Error occurred!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="hello">Hello!</string>
+    <string name="find_out_more">Do you want to find out more about this image?</string>
+
+    <string name="username">Username: %1$s</string>
+    <string name="tags">Tags: %1$s</string>
+    <string name="likes">Likes: %1$d</string>
+    <string name="downloads">Downloads: %1$d</string>
+    <string name="comments">Comments: %1$d</string>
+    <string name="search_hint">Search for images</string>
+
+    <string name="no_search_results">Oops! No results found for your search.</string>
+</resources>
